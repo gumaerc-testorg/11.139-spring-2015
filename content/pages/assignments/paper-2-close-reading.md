@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f986125a-9130-6578-b510-e37bb3a0b65d
 title: 'Paper 2: Close Reading'
 uid: e959edc8-6243-0e07-920c-58b441d6141b

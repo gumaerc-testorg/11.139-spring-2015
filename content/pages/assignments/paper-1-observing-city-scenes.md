@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f986125a-9130-6578-b510-e37bb3a0b65d
 title: 'Paper 1: Observing City Scenes'
 uid: c10785a6-fac7-e450-264c-143ad03fc39a

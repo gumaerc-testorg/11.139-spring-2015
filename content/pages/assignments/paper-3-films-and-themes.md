@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f986125a-9130-6578-b510-e37bb3a0b65d
 title: 'Paper 3: Films and Themes'
 uid: 3a8f54ed-273f-b1ff-39f7-721cb0aa84c0
