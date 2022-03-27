@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 1: Observing City Scenes'
 parent_type: CourseSection
+parent_uid: c10785a6-fac7-e450-264c-143ad03fc39a
 resourcetype: Document
 title: MIT11_139S15_Paper1.pdf
 uid: 0af0217d-301e-38c8-1baa-73c25c6a5dab

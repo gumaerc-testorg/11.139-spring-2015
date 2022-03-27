@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Weekly Film Notes
 parent_type: CourseSection
+parent_uid: 1d158212-0d36-a7dc-d3be-db0026c7baa2
 resourcetype: Document
 title: 'Film Notes: London'
 uid: 12dc1569-910a-2f6b-b57b-59b6f7272a9d

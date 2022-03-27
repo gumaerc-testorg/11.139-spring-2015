@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Weekly Film Notes
 parent_type: CourseSection
+parent_uid: 1d158212-0d36-a7dc-d3be-db0026c7baa2
 resourcetype: Document
 title: Do The Right Thing Notes
 uid: 2d817f4f-82d3-239e-45e0-1cf00f0f717f

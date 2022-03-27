@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 1: Observing City Scenes'
 parent_type: CourseSection
+parent_uid: c10785a6-fac7-e450-264c-143ad03fc39a
 resourcetype: Document
 title: The City's Heart
 uid: 67bffe4e-7a51-1ac8-caf1-135b2cc70bf7

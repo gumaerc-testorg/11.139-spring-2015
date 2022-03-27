@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 3: Films and Themes'
 parent_type: CourseSection
+parent_uid: 3a8f54ed-273f-b1ff-39f7-721cb0aa84c0
 resourcetype: Document
 title: Culture within the Modern City
 uid: dc597c8e-f068-a684-4792-2f68821c3eba

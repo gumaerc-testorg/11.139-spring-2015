@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper
 parent_type: CourseSection
+parent_uid: 1857ff1c-f860-2f72-6311-3f0ca807101a
 resourcetype: Document
 title: Searching for Beauty and Meaning in Hong Kong
 uid: 301be56f-e104-7810-cffb-8016b3015d5d

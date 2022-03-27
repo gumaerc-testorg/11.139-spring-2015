@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Weekly Film Notes
 parent_type: CourseSection
+parent_uid: 1d158212-0d36-a7dc-d3be-db0026c7baa2
 resourcetype: Document
 title: 'Film Notes: The Crowd'
 uid: 3ecae591-a8e4-fc56-4cff-55d18a941f44

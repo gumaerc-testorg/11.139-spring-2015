@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Weekly Film Notes
 parent_type: CourseSection
+parent_uid: 1d158212-0d36-a7dc-d3be-db0026c7baa2
 resourcetype: Document
 title: 'Film Notes: Modern Times'
 uid: c7a14ae4-19de-3b34-ca93-3beb03ef3a7b

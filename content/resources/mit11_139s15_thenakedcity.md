@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Weekly Film Notes
 parent_type: CourseSection
+parent_uid: 1d158212-0d36-a7dc-d3be-db0026c7baa2
 resourcetype: Document
 title: 'Film Notes: The Naked City'
 uid: 4436f403-f05d-930b-30c5-74b2b81fb08b

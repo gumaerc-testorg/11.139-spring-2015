@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper
 parent_type: CourseSection
+parent_uid: 1857ff1c-f860-2f72-6311-3f0ca807101a
 resourcetype: Document
 title: 'Not One but Thousands: Individuals Experience the City'
 uid: 1c341b52-beac-30fb-5862-f9230ee76c6b

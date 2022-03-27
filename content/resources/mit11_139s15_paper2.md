@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Paper 2: Close Reading'
 parent_type: CourseSection
+parent_uid: e959edc8-6243-0e07-920c-58b441d6141b
 resourcetype: Document
 title: '"You''re All Thieves": The Individual vs the City in Bicycle Thieves'
 uid: ae256f10-e563-87c5-5c2e-6411d34280bb
