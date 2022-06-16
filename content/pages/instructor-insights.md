@@ -1,31 +1,30 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a00409b0-060e-09b1-fece-08893f8927ea
 ---
+## Course Overview
 
-Course Overview
----------------
-
-_This page focuses on the course 11.139 The City in Film as it was taught by Ezra Haber Glenn in Spring 2015._
+_This page focuses on the course_ 11.139 The City in Film _as it was taught by Ezra Haber Glenn in Spring 2015._
 
 Using film as a lens to explore and interpret various aspects of the urban experience in both the U.S. and abroad, this course presents a survey of important developments in urbanism from 1900 to the present day, including changes in technology, bureaucracy, and industrialization; immigration and national identity; race, class, gender, and economic inequality; politics, conformity, and urban anomie; and planning, development, private property, displacement, sprawl, environmental degradation, and suburbanization..
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Critically examine cities, films about cities, and cultural attitudes and perspectives about urban life and urban issues depicted in films
-*   Use techniques of close-reading and textual-analysis to interpret meaning (both implicit and explicit) in the language of cities and films
-*   Learn to think about the changing nature of cities over the past 100 years – initially in an American/European context, but with implications and extensions for other rapidly urbanizing areas
-*   Express and discuss ideas about both films and cities through written and oral arguments, using visual evidence to support arguments
+- Critically examine cities, films about cities, and cultural attitudes and perspectives about urban life and urban issues depicted in films
+- Use techniques of close-reading and textual-analysis to interpret meaning (both implicit and explicit) in the language of cities and films
+- Learn to think about the changing nature of cities over the past 100 years – initially in an American/European context, but with implications and extensions for other rapidly urbanizing areas
+- Express and discuss ideas about both films and cities through written and oral arguments, using visual evidence to support arguments
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -33,9 +32,9 @@ None
 
 ### Requirements Satisfied
 
-*   CI-H ![](/images/educator/icon-question-cih.png)
-*   HASS ![](/images/educator/icon-question-hass.png)
-*   HASS-H ![](/images/educator/icon-question-hass-h.png)
+- CI-H ![](/images/educator/icon-question-cih.png)
+- HASS ![](/images/educator/icon-question-hass.png)
+- HASS-H ![](/images/educator/icon-question-hass-h.png)
 
 11.139 can be applied towards a [Bachelor of Science in Planning](https://dusp.mit.edu/degrees/undergraduate), but is not required.
 
@@ -45,12 +44,11 @@ Every spring semester
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "I try to use humor as a tool to loosen people up, get them thinking, talking, and prepared to take some risks, which is really what learning is all about." "—Ezra Haber Glenn" >}}
 
-_Below, Ezra Haber Glenn describes various aspects of how he teaches 11.139 The City in Film._
+_Below, Ezra Haber Glenn describes various aspects of how he teaches_ 11.139 The City in Film\_.\_
 
 ### Course History
 
@@ -76,12 +74,11 @@ Student feedback is crucial to a subject like this, which is fundamentally about
 
 Over the past few years, it’s been clear that students are interested in including in the syllabus very recent films, as well as films from non-Western cities. I’m still tweaking the lineup – which admittedly emphasizes the European and American world, where both film and the modern city began. To compensate for this emphasis, I include a “viewer’s choice” at the end of the semester.
 
-In addition, in the [final written assignment]({{< baseurl >}}/pages/assignments/final-paper), I encourage students to bring their own interests, backgrounds, and questions to the topic. I learn a lot from reading students' assignments and will integrate their ideas into future iterations of the course.
+In addition, in the {{% resource_link 1857ff1c-f860-2f72-6311-3f0ca807101a "final written assignment" %}}, I encourage students to bring their own interests, backgrounds, and questions to the topic. I learn a lot from reading students' assignments and will integrate their ideas into future iterations of the course.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -90,10 +87,11 @@ The students' grades were based on the following activities:
 - 36% Short papers
 - 20% Final film essay
 
-Student Information
--------------------
+## Student Information
 
-![13 students took the 11.139 The City in Film in Sprint 2015.]({{< resource_file f8ceba94-bfdf-fe20-e6be-466c3b59b8ea >}})
+### Enrollment
+
+13 students
 
 ### Breakdown by Year
 
@@ -105,26 +103,22 @@ The graduate students were all from Urban Planning and Architecture students, bu
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 time per week for 1.5 hours per session; 24 sessions total
-*   Analyzed the film and the accompanying readings for each week
-*   Discussed paper topics, oral presentations, readings, and additional film clips
+- Met 2 time per week for 1.5 hours per session; 24 sessions total
+- Analyzed the film and the accompanying readings for each week
+- Discussed paper topics, oral presentations, readings, and additional film clips
 
-Film Screening
---------------
+### Film Screening
 
-*   Met 1 time per week for 3 hours per session; 13 sessions total
-*   Watched the film of the week
+- Met 1 time per week for 3 hours per session; 13 sessions total
+- Watched the film of the week
 
-Out of Class
-------------
+### Out of Class
 
-*   Completed course readings
-*   Composed writing assignments
+- Completed course readings
+- Composed writing assignments
