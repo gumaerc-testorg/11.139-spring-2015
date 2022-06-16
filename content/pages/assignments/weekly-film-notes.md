@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides details on the weekly film notes students are required
+  to prepare and submit prior to the discussion session following each film. Examples
+  of student work are also provided.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -96,7 +99,7 @@ Student Examples
 _Metropolis_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_metropolis), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_metropolis2)
+{{% resource_link b4529ee6-1cf2-e385-0add-212c264f1024 "Example 1 (PDF)" %}}, {{% resource_link 6f96151f-3e60-5749-7068-83f7ca1f135a "Example 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +108,7 @@ _Metropolis_
 _Berlin: Symphony of a Great City_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_berlin)
+{{% resource_link ae2a26ce-be3e-da89-f0e4-913b1425f4ad "Example (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +117,7 @@ _Berlin: Symphony of a Great City_
 _The Crowd_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thecrowd), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thecrowd2)
+{{% resource_link 46a39f42-7387-2bc2-a7e9-8749d2299037 "Example 1 (PDF)" %}}, {{% resource_link 3ecae591-a8e4-fc56-4cff-55d18a941f44 "Example 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +126,7 @@ _The Crowd_
 _Modern Times_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_moderntimes)
+{{% resource_link c7a14ae4-19de-3b34-ca93-3beb03ef3a7b "Example (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +135,7 @@ _Modern Times_
 _Ladri di Biciclette (Bicycle Thieves)_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_bicyclethieve)
+{{% resource_link e0f22db8-f9e3-45a2-50fd-26915e3bac3e "Example (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +144,7 @@ _Ladri di Biciclette (Bicycle Thieves)_
 _The Naked City_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thenakedcity), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_thenakedcity2)
+{{% resource_link 4436f403-f05d-930b-30c5-74b2b81fb08b "Example 1 (PDF)" %}}, {{% resource_link 30bcb9b1-5579-3587-b618-7717556917d2 "Example 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +153,7 @@ _The Naked City_
 _West Side Story_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_westsidestory), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_westside2)
+{{% resource_link c221af03-67c1-9faa-2688-8da378076934 "Example 1 (PDF)" %}}, {{% resource_link 75e5b1e3-b7c8-18cf-99ca-ad1b4158b95b "Example 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +162,7 @@ _West Side Story_
 _Play Time_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_playtime), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_playtime2)
+{{% resource_link 0a02d7dc-8f1e-1ead-093f-af25a7acaac8 "Example 1 (PDF)" %}}, {{% resource_link 5f93e845-be05-a5d6-8352-4f47c5fa7214 "Example 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +171,7 @@ _Play Time_
 _Midnight Cowboy_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_midnight)
+{{% resource_link dd6364ae-bf8f-8931-6f77-8ea43b8ccd93 "Example (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +189,7 @@ No Examples
 _Do the Right Thing_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example 1 (PDF)]({{< baseurl >}}/resources/mit11_139s15_dotheright), [Example 2 (PDF)]({{< baseurl >}}/resources/mit11_139s15_dotheright2)
+{{% resource_link 62fe842b-b574-7364-ac43-cf1dac952d08 "Example 1 (PDF)" %}}, {{% resource_link 2d817f4f-82d3-239e-45e0-1cf00f0f717f "Example 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +198,7 @@ _Do the Right Thing_
 _London_
 {{< tdclose >}}
 {{< tdopen >}}
-[Example (PDF)]({{< baseurl >}}/resources/mit11_139s15_london)
+{{% resource_link 12dc1569-910a-2f6b-b57b-59b6f7272a9d "Example (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

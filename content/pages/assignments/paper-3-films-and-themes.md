@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the third writing assignment of the
+  course and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,8 +46,8 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-["Meet Cute" and Impossible Love in the City (PDF)]({{< baseurl >}}/resources/mit11_139s15_paper3_1)
+{{% resource_link 4d56bfaf-03db-e29d-63df-5295876a90f3 "\"Meet Cute\" and Impossible Love in the City (PDF)" %}}
 
-[Heaven and "El": The Depiction of the City Apartment (PDF)]({{< baseurl >}}/resources/mit11_139s15_paper3_2)
+{{% resource_link 960b67cc-cb2c-679f-3e63-23a4caa7065b "Heaven and \"El\": The Depiction of the City Apartment (PDF)" %}}
 
-[Culture Within the Modern City (PDF)]({{< baseurl >}}/resources/mit11_139s15_paper3)
+{{% resource_link dc597c8e-f068-a684-4792-2f68821c3eba "Culture Within the Modern City (PDF)" %}}
