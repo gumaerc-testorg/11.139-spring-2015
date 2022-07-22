@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, the film schedule, and course requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8ceefeeb-dd52-4617-f5bd-a373d02aceb5
 ---

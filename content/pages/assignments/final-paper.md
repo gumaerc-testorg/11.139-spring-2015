@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on the final paper for the course and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f986125a-9130-6578-b510-e37bb3a0b65d
 title: Final Paper
 uid: 1857ff1c-f860-2f72-6311-3f0ca807101a
@@ -53,8 +59,8 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-["Intersections and Strange Things Told": San Fernando Valley as Depicted in Paul Thomas Anderson's _Magnolia_ (PDF)]({{< baseurl >}}/resources/mit11_139s15_final_paper1)
+{{% resource_link 8b09c6e1-8acb-9919-4844-c3b3cb527885 "\"Intersections and Strange Things Told\": San Fernando Valley as Depicted in Paul Thomas Anderson's _Magnolia_ (PDF)" %}}
 
-[Not One But Thousands: Individuals Experience the City (PDF)]({{< baseurl >}}/resources/mit11_139s15_final_paper2)
+{{% resource_link 1c341b52-beac-30fb-5862-f9230ee76c6b "Not One But Thousands: Individuals Experience the City (PDF)" %}}
 
-[Searching for Beauty and Meaning in Hong Kong (PDF)]({{< baseurl >}}/resources/mit11_139s15_finalpaper)
+{{% resource_link 301be56f-e104-7810-cffb-8016b3015d5d "Searching for Beauty and Meaning in Hong Kong (PDF)" %}}

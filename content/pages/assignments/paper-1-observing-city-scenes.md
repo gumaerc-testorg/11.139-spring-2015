@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on the first writing assignment of the
+  course and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f986125a-9130-6578-b510-e37bb3a0b65d
 title: 'Paper 1: Observing City Scenes'
 uid: c10785a6-fac7-e450-264c-143ad03fc39a
@@ -46,6 +52,6 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-[The City's Heart (PDF)]({{< baseurl >}}/resources/mit11_139s15_paper1)
+{{% resource_link 67bffe4e-7a51-1ac8-caf1-135b2cc70bf7 "The City's Heart (PDF)" %}}
 
-[Home (PDF)]({{< baseurl >}}/resources/mit11_139s15_paper_1)
+{{% resource_link 0af0217d-301e-38c8-1baa-73c25c6a5dab "Home (PDF)" %}}

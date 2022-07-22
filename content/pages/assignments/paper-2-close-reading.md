@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on the second writing assignment of the
+  course and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f986125a-9130-6578-b510-e37bb3a0b65d
 title: 'Paper 2: Close Reading'
 uid: e959edc8-6243-0e07-920c-58b441d6141b
@@ -43,6 +49,6 @@ Student Examples
 
 The examples below appear courtesy of MIT students and are used with permission. Examples are published anonymously unless otherwise requested.
 
-["You're All Thieves": The Individual vs the City in _Bicycle Thieves_ (PDF)]({{< baseurl >}}/resources/mit11_139s15_paper2)
+{{% resource_link ae256f10-e563-87c5-5c2e-6411d34280bb "\"You're All Thieves\": The Individual vs the City in _Bicycle Thieves_ (PDF)" %}}
 
-[The City as a System of Production (PDF)]({{< baseurl >}}/resources/mit11_139s15_paper_2)
+{{% resource_link 93bbe99a-09a0-5621-a967-1d36bc2e51fc "The City as a System of Production (PDF)" %}}
