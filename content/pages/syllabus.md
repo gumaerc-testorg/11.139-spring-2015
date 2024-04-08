@@ -52,7 +52,7 @@ FILMS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Metropolis](http://www.imdb.com/title/tt0017136/), Fritz Lang (1926)
+{{% resource_link "1b7768ae-1563-40d3-8c14-bff8441711d7" "Metropolis" %}}, Fritz Lang (1926)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +61,7 @@ FILMS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Berlin: Symphony of a Great City](http://www.imdb.com/title/tt0017668/), Walther Ruttman (1927)
+{{% resource_link "be5cac75-85d9-4724-9e26-235dc8b24bc9" "Berlin: Symphony of a Great City" %}}, Walther Ruttman (1927)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +70,7 @@ FILMS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[The Crowd](http://www.imdb.com/title/tt0018806/), King Vidor (1928)
+{{% resource_link "87ecd249-52bc-46f3-b41f-f367f7228a91" "The Crowd" %}}, King Vidor (1928)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ FILMS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Modern Times](http://www.imdb.com/title/tt0027977/), Charles Chaplin (1936)
+{{% resource_link "6d61d3fc-c043-4350-a1f6-51025c71d4cf" "Modern Times" %}}, Charles Chaplin (1936)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ FILMS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Ladri di Biciclette (Bicycle Thieves)](http://www.imdb.com/title/tt0040522/), Vittorio De Sica (1948)
+{{% resource_link "1e0fb42d-540c-45dd-9d36-ac87c8dd2a68" "Ladri di Biciclette (Bicycle Thieves)" %}}, Vittorio De Sica (1948)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ FILMS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[The Naked City](http://www.imdb.com/title/tt0040636/), Jules Dassin (1948)
+{{% resource_link "a677c71e-1cc6-4af0-b731-f53b4e60dfb6" "The Naked City" %}}, Jules Dassin (1948)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +106,7 @@ FILMS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[West Side Story](http://www.imdb.com/title/tt0055614/), Robert Wise and Jerome Robbins (1961)
+{{% resource_link "6d9db001-eddc-4fc1-a9a2-65b54cffe931" "West Side Story" %}}, Robert Wise and Jerome Robbins (1961)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +115,7 @@ FILMS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Play Time](http://www.imdb.com/title/tt0062136/), Jacques Tati (1967)
+{{% resource_link "a21377c1-3328-40a2-b45d-10a63599ac94" "Play Time" %}}, Jacques Tati (1967)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ FILMS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Midnight Cowboy](http://www.imdb.com/title/tt0064665/), John Schlesinger (1969)
+{{% resource_link "7371837e-119b-4b95-ab93-c6b23e6337b3" "Midnight Cowboy" %}}, John Schlesinger (1969)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +133,7 @@ FILMS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Blade Runner](http://www.imdb.com/title/tt0083658/), Ridley Scott (1982)
+{{% resource_link "b2de6c0f-65ae-4657-a80a-abde380b1241" "Blade Runner" %}}, Ridley Scott (1982)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +142,7 @@ FILMS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Do the Right Thing](http://www.imdb.com/title/tt0097216/), Spike Lee (1989)
+{{% resource_link "7bb161d3-9fd2-422f-966b-dd9dc5cb5b90" "Do the Right Thing" %}}, Spike Lee (1989)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +151,7 @@ FILMS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[London](http://www.imdb.com/title/tt0110377/), Patrick Keiller (1994)
+{{% resource_link "5f229481-0b95-4443-a135-d97ed48e3699" "London" %}}, Patrick Keiller (1994)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ FILMS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Night on Earth](http://www.imdb.com/title/tt0102536/), Jim Jarmusch (1991)
+{{% resource_link "e9ea5701-9707-440e-a343-a9a222d973e8" "Night on Earth" %}}, Jim Jarmusch (1991)
 {{< tdclose >}}
 
 {{< trclose >}}
