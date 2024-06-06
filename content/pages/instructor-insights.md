@@ -36,7 +36,7 @@ None
 - HASS ![](/images/educator/icon-question-hass.png)
 - HASS-H ![](/images/educator/icon-question-hass-h.png)
 
-11.139 can be applied towards a {{% resource_link "2886fb8c-3b58-443b-8aa6-66760249ba51" "Bachelor of Science in Planning" %}}, but is not required.
+11.139 can be applied towards a [Bachelor of Science in Planning](https://dusp.mit.edu/degrees/undergraduate), but is not required.
 
 ### Offered
 
@@ -52,7 +52,7 @@ _Below, Ezra Haber Glenn describes various aspects of how he teaches_ 11.139 The
 
 ### Course History
 
-This course grew out of the {{% resource_link "635ea143-3a4d-4e82-b72f-5b8b2735f44d" "MIT Urban Planning Film Series" %}}, which I’ve curated since about 2008. Roughly every other Thursday, we’d show films on topics related to urban planning. The screenings were open to students and members of the community. In 2014, I created this course to give more structure to the series and to provide an option for students who wanted to delve more deeply into what films could teach us about cities.
+This course grew out of the [MIT Urban Planning Film Series](https://www.urbanfilm.org/), which I’ve curated since about 2008. Roughly every other Thursday, we’d show films on topics related to urban planning. The screenings were open to students and members of the community. In 2014, I created this course to give more structure to the series and to provide an option for students who wanted to delve more deeply into what films could teach us about cities.
 
 The first year I taught this course it was a “pilot” and was only open to graduate students – about twelve in all, most of whom were enrolled in Urban Planning and Architecture programs. Based on feedback from these students, the course grew into its current state.
 
