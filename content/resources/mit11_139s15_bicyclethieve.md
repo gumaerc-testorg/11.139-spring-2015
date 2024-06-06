@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding bicycle thieves.
 file: /courses/11-139-the-city-in-film-spring-2015/e0f22db8f9e345a250fd26915e3bac3e_MIT11_139S15_BicycleThieve.pdf
+file_size: 278330
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding the crowd.
 file: /courses/11-139-the-city-in-film-spring-2015/46a39f4273872bc2a7e98749d2299037_MIT11_139S15_TheCrowd.pdf
+file_size: 735652
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding west side
   story.
 file: /courses/11-139-the-city-in-film-spring-2015/75e5b1e3b7c818cf99caad1b4158b95b_MIT11_139S15_WestSide2.pdf
+file_size: 106953
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
