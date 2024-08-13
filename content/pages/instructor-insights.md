@@ -11,7 +11,7 @@ uid: a00409b0-060e-09b1-fece-08893f8927ea
 ---
 ## Course Overview
 
-_This page focuses on the course_ 11.139 The City in Film _as it was taught by Ezra Haber Glenn in Spring 2015._
+*This page focuses on the course* 11.139 The City in Film *as it was taught by Ezra Haber Glenn in Spring 2015.*
 
 Using film as a lens to explore and interpret various aspects of the urban experience in both the U.S. and abroad, this course presents a survey of important developments in urbanism from 1900 to the present day, including changes in technology, bureaucracy, and industrialization; immigration and national identity; race, class, gender, and economic inequality; politics, conformity, and urban anomie; and planning, development, private property, displacement, sprawl, environmental degradation, and suburbanization..
 
@@ -36,7 +36,7 @@ None
 - HASS ![](/images/educator/icon-question-hass.png)
 - HASS-H ![](/images/educator/icon-question-hass-h.png)
 
-11.139 can be applied towards a [Bachelor of Science in Planning](https://dusp.mit.edu/degrees/undergraduate), but is not required.
+11.139 can be applied towards a [Bachelor of Science in Planning](https://dusp.mit.edu/undergraduate), but is not required.
 
 ### Offered
 
@@ -48,7 +48,7 @@ Every spring semester
 
 {{< quote "I try to use humor as a tool to loosen people up, get them thinking, talking, and prepared to take some risks, which is really what learning is all about." "—Ezra Haber Glenn" >}}
 
-_Below, Ezra Haber Glenn describes various aspects of how he teaches_ 11.139 The City in Film\_.\_
+*Below, Ezra Haber Glenn describes various aspects of how he teaches* 11.139 The City in Film\_.\_
 
 ### Course History
 
@@ -74,7 +74,7 @@ Student feedback is crucial to a subject like this, which is fundamentally about
 
 Over the past few years, it’s been clear that students are interested in including in the syllabus very recent films, as well as films from non-Western cities. I’m still tweaking the lineup – which admittedly emphasizes the European and American world, where both film and the modern city began. To compensate for this emphasis, I include a “viewer’s choice” at the end of the semester.
 
-In addition, in the {{% resource_link 1857ff1c-f860-2f72-6311-3f0ca807101a "final written assignment" %}}, I encourage students to bring their own interests, backgrounds, and questions to the topic. I learn a lot from reading students' assignments and will integrate their ideas into future iterations of the course.
+In addition, in the {{% resource_link "1857ff1c-f860-2f72-6311-3f0ca807101a" "final written assignment" %}}, I encourage students to bring their own interests, backgrounds, and questions to the topic. I learn a lot from reading students' assignments and will integrate their ideas into future iterations of the course.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
