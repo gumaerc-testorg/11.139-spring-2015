@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding the naked
   city.
-file: /courses/11-139-the-city-in-film-spring-2015/4436f403f05d930b30c574b2b81fb08b_MIT11_139S15_TheNakedCity.pdf
+file: /ol-ocw-studio-app/courses/11-139-the-city-in-film-spring-2015/4436f403f05d930b30c574b2b81fb08b_MIT11_139S15_TheNakedCity.pdf
 file_size: 282155
 file_type: application/pdf
 learning_resource_types: []

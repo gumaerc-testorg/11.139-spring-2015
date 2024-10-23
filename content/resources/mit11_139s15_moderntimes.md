@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding modern times.
-file: /courses/11-139-the-city-in-film-spring-2015/c7a14ae419de3b34ca933beb03ef3a7b_MIT11_139S15_ModernTimes.pdf
+file: /ol-ocw-studio-app/courses/11-139-the-city-in-film-spring-2015/c7a14ae419de3b34ca933beb03ef3a7b_MIT11_139S15_ModernTimes.pdf
 file_size: 732874
 file_type: application/pdf
 learning_resource_types: []

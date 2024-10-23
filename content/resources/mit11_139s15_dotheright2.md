@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding do the right
   thing notes.
-file: /courses/11-139-the-city-in-film-spring-2015/2d817f4f82d3239e45e01cf00f0f717f_MIT11_139S15_Dotheright2.pdf
+file: /ol-ocw-studio-app/courses/11-139-the-city-in-film-spring-2015/2d817f4f82d3239e45e01cf00f0f717f_MIT11_139S15_Dotheright2.pdf
 file_size: 633204
 file_type: application/pdf
 learning_resource_types: []

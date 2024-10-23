@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding final paper. '
-file: /courses/11-139-the-city-in-film-spring-2015/301be56fe1047810cffb8016b3015d5d_MIT11_139S15_FinalPaper.pdf
+file: /ol-ocw-studio-app/courses/11-139-the-city-in-film-spring-2015/301be56fe1047810cffb8016b3015d5d_MIT11_139S15_FinalPaper.pdf
 file_size: 375710
 file_type: application/pdf
 learning_resource_types: []
