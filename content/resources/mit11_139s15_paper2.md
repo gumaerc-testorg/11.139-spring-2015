@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a file that contains information regarding "you''re all thieves":
   the individual vs the city in bicycle thieves.'
-file: /ol-ocw-studio-app/courses/11-139-the-city-in-film-spring-2015/ae256f10e56387c55c2e6411d34280bb_MIT11_139S15_Paper2.pdf
+file: /courses/11-139-the-city-in-film-spring-2015/ae256f10e56387c55c2e6411d34280bb_MIT11_139S15_Paper2.pdf
 file_size: 124969
 file_type: application/pdf
 learning_resource_types: []
