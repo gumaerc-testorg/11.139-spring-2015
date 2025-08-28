@@ -3,7 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding "intersections and
   strange things told": san fernando valley as depicted in paul thomas anderson''s
   magnolia.'
-file: /courses/11-139-the-city-in-film-spring-2015/8b09c6e18acb99194844c3b3cb527885_MIT11_139S15_Final_Paper1.pdf
+file: /ol-ocw-studio-app/courses/11-139-the-city-in-film-spring-2015/8b09c6e18acb99194844c3b3cb527885_MIT11_139S15_Final_Paper1.pdf
 file_size: 616195
 file_type: application/pdf
 learning_resource_types: []
