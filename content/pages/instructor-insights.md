@@ -36,7 +36,7 @@ None
 - HASS ![](/images/educator/icon-question-hass.png)
 - HASS-H ![](/images/educator/icon-question-hass-h.png)
 
-11.139 can be applied towards a {{% resource_link "4a5a2324-f049-47f6-9d46-f1041c0d72bc" "Bachelor of Science in Planning" %}}, but is not required.
+11.139 can be applied towards a [Bachelor of Science in Planning](https://dusp.mit.edu/undergraduate), but is not required.
 
 ### Offered
 
@@ -52,7 +52,7 @@ Every spring semester
 
 ### Course History
 
-This course grew out of the {{% resource_link "f278ab5c-184d-4322-bf69-201e4cc5f588" "MIT Urban Planning Film Series" %}}, which I’ve curated since about 2008. Roughly every other Thursday, we’d show films on topics related to urban planning. The screenings were open to students and members of the community. In 2014, I created this course to give more structure to the series and to provide an option for students who wanted to delve more deeply into what films could teach us about cities.
+This course grew out of the [MIT Urban Planning Film Series](https://www.urbanfilm.org/), which I’ve curated since about 2008. Roughly every other Thursday, we’d show films on topics related to urban planning. The screenings were open to students and members of the community. In 2014, I created this course to give more structure to the series and to provide an option for students who wanted to delve more deeply into what films could teach us about cities.
 
 The first year I taught this course it was a “pilot” and was only open to graduate students – about twelve in all, most of whom were enrolled in Urban Planning and Architecture programs. Based on feedback from these students, the course grew into its current state.
 
